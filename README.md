@@ -4,3 +4,5 @@ Hola, mi nombre es Youbry Camilo Mendoza Martínez, tengo 21 años, mis pasatiem
 Me encuentro estudiando Ingeniería de Sistemas en la Universidad de los llanos sede Barcelona. 
 
 Actualmente la temperatura en Villavicencio se encuentra sobre los 31 grados celsius.
+
+El tragedia en Colombia a causa del terremoto crece: ya son 273 los fallecidos y más de 97.000 afectados.
