@@ -8,3 +8,5 @@ El tragedia en Colombia a causa del terremoto crece: ya son 273 los fallecidos y
 # INTERESES
 Control de versiones con Git
 Desarrollo de software
+## modificación desde la rama feature/actualizacion-reame
+Perfil de GitHub: https://github.com/camilomendoza527-sketch
